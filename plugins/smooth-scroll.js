@@ -1,6 +1,5 @@
-import Vue from 'vue'
-import vueSmoothScroll from 'vue2-smooth-scroll'
+// eslint-disable-next-line import/default
+import Vue from 'vue';
+import VueSmoothScroll from 'vue2-smooth-scroll';
 
-Vue.use(vueSmoothScroll)
-
-export default {}
+Vue.use(VueSmoothScroll);
